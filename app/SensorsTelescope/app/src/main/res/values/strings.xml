@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sensors Telescope</string>
+    <string name="error_no_sensor">No sensor</string>
+    <string name="label_light">Light Sensor: %1$.2f lux</string>
+    <string name="label_proximity">Proximity Sensor: %1$.2f</string>
+    <string name="label_accelerometer">Accelerometer: (%1$.2f, %2$.2f, %3$.2f) m/s2</string>
+    <string name="label_linear_acceleration">Linear accelerometer: (%1$.2f, %2$.2f, %3$.2f) m/s2</string>
+    <string name="label_gyroscope">Gyroscope: (%1$.2f, %2$.2f, %3$.2f) rad/s</string>
+    <string name="label_rotation">Rotation: (%1$.2f, %2$.2f, %3$.2f, %4$.2f) </string>
+    <string name="label_gravity">Gravity: (%1$.2f, %2$.2f, %3$.2f) m/s2</string>
+    <string name="label_gps">GPS: (%1$.5f, %2$.5f, %3$.2f) - accuracy: %4$.2f</string>
+    <string name="label_barometer">Barometer: %1$.2f mbar</string>
+</resources>
