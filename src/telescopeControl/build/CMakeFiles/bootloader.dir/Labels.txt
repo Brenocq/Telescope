@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/breno/Github/Telescope/src/telescopeControl/build/CMakeFiles/bootloader
+/home/breno/Github/Telescope/src/telescopeControl/build/CMakeFiles/bootloader.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/CMakeFiles/bootloader-complete.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/breno/Github/Telescope/src/telescopeControl/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
